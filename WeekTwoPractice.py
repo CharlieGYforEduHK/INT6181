@@ -9,4 +9,5 @@ for i in range(2, n):
 
 for _ in range(10):
     print("*"*(_+1))
-    
+
+print(f"{'print for github testing':#^30}")
